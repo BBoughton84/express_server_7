@@ -2,8 +2,8 @@
   "name": "express_server_7",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
+    "start": "ndoe app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
